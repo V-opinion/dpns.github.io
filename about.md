@@ -25,3 +25,10 @@ DPNS ingår i det bredare nätverket för **MultiReligionValSystem**, som syftar
 * [Startsida](https://dpns.multireligionvalsystem.eu.org/)
 * [Kontakta Oss](contact.md)
 * [Följ oss på Instagram](https://www.instagram.com/multireligionval/){:target="_blank"}
+<hr>
+<h3>Dela artikeln</h3>
+<div style="display: flex; gap: 10px; margin-top: 10px;">
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://dpns.multireligionvalsystem.eu.org/sekularisering" target="_blank" style="padding: 8px 12px; background-color: #1877f2; color: white; text-decoration: none; border-radius: 4px;">Dela på Facebook</a>
+  <a href="https://twitter.com/intent/tweet?url=https://dpns.multireligionvalsystem.eu.org/sekularisering&text=Vad%20innebär%20sekulärisering%20enligt%20De%20Nya%20Svenskarna?" target="_blank" style="padding: 8px 12px; background-color: #000000; color: white; text-decoration: none; border-radius: 4px;">Dela på X</a>
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://dpns.multireligionvalsystem.eu.org/sekularisering" target="_blank" style="padding: 8px 12px; background-color: #0a66c2; color: white; text-decoration: none; border-radius: 4px;">Dela på LinkedIn</a>
+</div>
