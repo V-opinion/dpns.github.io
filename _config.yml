@@ -1,0 +1,17 @@
+title: "DPNS - Multi-Religion Val System"
+url: "https://dpns.multireligionvalsystem.eu.org"
+permalink: /:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+  - scope:
+      path: "page"
+    values:
+      layout: page
+  - scope:
+      path: "pages"
+    values:
+      layout: page
