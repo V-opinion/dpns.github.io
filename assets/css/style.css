@@ -1,0 +1,26 @@
+/* Custom Header Styling */
+header {
+  background-color: #1f2937;
+  padding: 1rem;
+  color: white;
+}
+
+/* Navigation Links */
+header a, footer a {
+  color: #38bdf8;
+  text-decoration: none;
+  margin-right: 15px;
+  font-weight: bold;
+}
+
+header a:hover, footer a:hover {
+  text-decoration: underline;
+}
+
+/* Custom Footer */
+footer {
+  border-top: 1px solid #e5e7eb;
+  margin-top: 3rem;
+  padding: 1.5rem 0;
+  text-align: center;
+}
