@@ -16,7 +16,9 @@ title: Hem
   {% endfor %}
 </ul>
 ---
-
+<!-- Links to External Subdomain Pages -->
+* [Main Portal](https://www.multireligionvalsystem.eu.org/){:target="_blank"}
+* [Den nya svenskarna](https://www.multireligionvalsystem.eu.org/denyasvenskarna){:target="_blank"}
 [Follow us on Instagram](https://www.instagram.com/multireligionval/){:target="_blank"}
 <hr>
 <div align="center" style="margin-top: 40px; padding: 20px; font-family: sans-serif;">
