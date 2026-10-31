@@ -15,3 +15,5 @@ defaults:
       path: "pages"
     values:
       layout: page
+# Add to your _config.yml
+footer: "© 2026 Multi Religion Val | Follow us on [Instagram](https://www.instagram.com/multireligionval/)"
