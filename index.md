@@ -16,6 +16,14 @@ title: Hem
   {% endfor %}
 </ul>
 ---
+<!-- Footer / Links Section -->
+<nav class="cross-site-links">
+  <!-- Internal link to another page on the same domain -->
+  <a href="/denyasvenskarna">Den nya svenskarna</a> |
+
+  <!-- External link to your DPNS subdomain -->
+  <a href="https://dpns.multireligionvalsystem.eu.org/" target="_blank" rel="noopener">DPNS Portal</a>
+</nav>
 <!-- Links to External Subdomain Pages -->
 * [Main Portal](https://www.multireligionvalsystem.eu.org/){:target="_blank"}
 * [Den nya svenskarna](https://www.multireligionvalsystem.eu.org/denyasvenskarna){:target="_blank"}
