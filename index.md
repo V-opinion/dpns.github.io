@@ -3,7 +3,7 @@ layout: default
 title: Hem
 ---
 
-# Välkommen till min sida!
+# Välkommen till Demokratiska partiet, De Nya Svenskarna (DPNS)
 
 ## Senaste inlägg
 
