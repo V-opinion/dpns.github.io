@@ -2,6 +2,34 @@
 
 > **Multi-Religion Election System (MRES) & Governance Portal**
 > Connecting democracy, electoral reform, and transparent civic engagement.
+
+---
+
+### Navigation
+[Home](https://dpns.multireligionvalsystem.eu.org/) | [About DPNS](about.md) | [Contact & Support](contact.md) | [Main Portal](https://www.multireligionvalsystem.eu.org/) | [Den Nya Svenskarna](https://www.multireligionvalsystem.eu.org/denyasvenskarna)
+
+---
+
+## Om DPNS Plattformen
+DPNS (Demokratiskt & Partipolitiskt Neutralt System) fungerar som en oberoende digital plattform inom **MultiReligionValSystem (MRVS)**. Vårt mål är att erbjuda en partipolitiskt neutral och demokratisk struktur för val, representation och informationsspridning.
+
+### Våra Kärnområden
+* **Demokratisk Reform:** Införande av neutrala och transparenta rösträtts- och valsystem.
+* **MRES-Modellen:** En överlägsen konfliktlösningsmodell och valplattform.
+* **Separation mellan Stat & Religion:** Stärka den demokratiska integriteten för alla samfund.
+# Välkommen till Demokratiska partiet, De Nya Svenskarna (DPNS)
+
+## Senaste inlägg
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <small>({{ post.date | date: "%Y-%m-%d" }})</small>
+    </li>
+  {% endfor %}
+</ul>
+
 <!-- Inline Header Navigation inside index.md -->
 <style>
   .custom-nav {
@@ -46,31 +74,6 @@
 </div>
 ---
 
-### Navigation
-[Home](https://dpns.multireligionvalsystem.eu.org/) | [About DPNS](about.md) | [Contact & Support](contact.md) | [Main Portal](https://www.multireligionvalsystem.eu.org/) | [Den Nya Svenskarna](https://www.multireligionvalsystem.eu.org/denyasvenskarna)
-
----
-
-## Om DPNS Plattformen
-DPNS (Demokratiskt & Partipolitiskt Neutralt System) fungerar som en oberoende digital plattform inom **MultiReligionValSystem (MRVS)**. Vårt mål är att erbjuda en partipolitiskt neutral och demokratisk struktur för val, representation och informationsspridning.
-
-### Våra Kärnområden
-* **Demokratisk Reform:** Införande av neutrala och transparenta rösträtts- och valsystem.
-* **MRES-Modellen:** En överlägsen konfliktlösningsmodell och valplattform.
-* **Separation mellan Stat & Religion:** Stärka den demokratiska integriteten för alla samfund.
-# Välkommen till Demokratiska partiet, De Nya Svenskarna (DPNS)
-
-## Senaste inlägg
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <small>({{ post.date | date: "%Y-%m-%d" }})</small>
-    </li>
-  {% endfor %}
-</ul>
----
 <!-- Footer / Links Section -->
 <nav class="cross-site-links">
   <!-- Internal link to another page on the same domain -->
