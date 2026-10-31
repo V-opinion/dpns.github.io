@@ -2,7 +2,32 @@
 
 > **Multi-Religion Election System (MRES) & Governance Portal**
 > Connecting democracy, electoral reform, and transparent civic engagement.
+<!-- Inline Header Navigation inside index.md -->
+<style>
+  .custom-nav {
+    display: flex;
+    gap: 15px;
+    background: #f3f4f6;
+    padding: 12px 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  .custom-nav a {
+    color: #2563eb;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  .custom-nav a:hover {
+    color: #1d4ed8;
+  }
+</style>
 
+<div class="custom-nav">
+  <a href="/">Hem</a>
+  <a href="/about">Om DPNS</a>
+  <a href="/contact">Kontakt</a>
+  <a href="https://www.multireligionvalsystem.eu.org/" target="_blank">Huvudportal</a>
+</div>
 ---
 
 ### Navigation
