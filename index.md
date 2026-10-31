@@ -21,7 +21,23 @@
     color: #1d4ed8;
   }
 </style>
+/* Responsive Flexbox Navigation */
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
 
+/* Footer Link Group */
+.footer-links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+}
 <div class="custom-nav">
   <a href="/">Hem</a>
   <a href="/about">Om DPNS</a>
