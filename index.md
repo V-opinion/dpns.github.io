@@ -8,7 +8,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RPD3TZF8LQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-RPD3TZF8LQ');
+</script>
   <!-- Primary SEO Meta Tags -->
   <title>Demokratiska partiet, De Nya Svenskarna (DPNS) — MultiReligionValSystem</title>
   <meta name="title" content="Demokratiska partiet, De Nya Svenskarna (DPNS) — MultiReligionValSystem">
