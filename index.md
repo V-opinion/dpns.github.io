@@ -1,3 +1,32 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Primary SEO Meta Tags -->
+  <title>Demokratiska partiet, De Nya Svenskarna (DPNS) — MultiReligionValSystem</title>
+  <meta name="title" content="Demokratiska partiet, De Nya Svenskarna (DPNS) — MultiReligionValSystem">
+  <meta name="description" content="DPNS verkar för kyrkovalsreform, demokratisering av trossamfund, sekulärisering, FRC-kammaren och en neutral flaggdesign (.SE) för alla medborgare.">
+  <meta name="keywords" content="Demokratiska partiet De Nya Svenskarna, DPNS, MultiReligionValSystem, MRVS, kyrkovalsreform, sekulärisering, FRC, SST, demokrati, valsystem">
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="De Nya Svenskarna (DPNS)">
+  <link rel="canonical" href="https://dpns.multireligionvalsystem.eu.org/">
+
+  <!-- OpenGraph / Facebook / Instagram / LinkedIn -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://dpns.multireligionvalsystem.eu.org/">
+  <meta property="og:title" content="Demokratiska partiet, De Nya Svenskarna (DPNS)">
+  <meta property="og:description" content="En neutral och demokratisk plattform för kyrkovalsreform, FRC-kammaren, samt fri och rättvis representation för samtliga trossamfund.">
+  <meta property="og:image" content="https://dpns.multireligionvalsystem.eu.org/assets/images/dpns-og-banner.png">
+  <meta property="og:locale" content="sv_SE">
+  <meta property="og:site_name" content="DPNS — MultiReligionValSystem">
+
+  <!-- X (Twitter) Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="https://dpns.multireligionvalsystem.eu.org/">
+  <meta name="twitter:title" content="Demokratiska partiet, De Nya Svenskarna (DPNS)">
+  <meta name="twitter:description" content="Demokratisering och sekulärisering genom kyrkovalsreformen, FRC och ny flaggdesign (.SE).">
+  <meta name="twitter:image" content="https://dpns.multireligionvalsystem.eu.org/assets/images/dpns-og-banner.png">
+</head>
 # DPNS — Demokratiskt & Partipolitiskt Neutralt System
 
 > **Multi-Religion Election System (MRES) & Governance Portal**
