@@ -72,4 +72,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <!-- Article 2 -->
+  <url>
+    <loc>https://dpns.multireligionvalsystem.eu.org/2022/01/30/miljomodellen-for-demokrati-demokratin-fran-teori-till-praktik/</loc>
+    <lastmod>2022-01-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
