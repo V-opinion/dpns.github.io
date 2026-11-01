@@ -1,15 +1,15 @@
 ---
-title: "Åtgärd nr III, Multireligionvalsystemet, A multi-religion election system"
+title: "Åtgärd nr III, Multireligionvalsystemet, A multi-religion election system (MRES)"
 date: 2017-11-24
 categories: 
-  - "multireligionvalsystem"
+  - "multireligionvalsystem (MRES)"
 ---
 
 **FRED**
 
 Får att uppnå fred ska kyrkovalet upphävas och ersättas med ett Multireligionvalsystem och detta ska genomföras i hela EU.
 
-[A multi-religion election system](https:/A-multi-religion-election-system.multireligionvalsystem.eu.org)
+[A multi-religion election system](https:/a-multi-religion-election.multireligionvalsystem.eu.org)
 
 Vad är grundlagsutredningens uppgift ?
 
@@ -31,6 +31,6 @@ Då folkomröstning gällande flyktingfrågan ägde rum i Skåne , varför skull
 
 Utvärdering och översyn av valsystemet i sin helhet görs efter genomförandet av det första multireligionval som förhoppningsvis kan äga rum i samband med EU-valet 2019.
 
-Multireligionvalsystem börjar med att tillämpas i Sverige och sedan i övriga nordiska länder och efter det inom hela EU.
-
+Multireligionvalsystem (MRES)börjar med att tillämpas i Sverige och sedan i övriga nordiska länder och efter det inom hela EU.
+Demokratiska partiet, De Nya Svenskarna (DPNS)
 **Krig utgör ett hot mot mänskligheten och miljön**
