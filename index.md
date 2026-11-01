@@ -26,6 +26,29 @@
   <meta name="twitter:title" content="Demokratiska partiet, De Nya Svenskarna (DPNS)">
   <meta name="twitter:description" content="Demokratisering och sekulärisering genom kyrkovalsreformen, FRC och ny flaggdesign (.SE).">
   <meta name="twitter:image" content="https://dpns.multireligionvalsystem.eu.org/assets/images/dpns-og-banner.png">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "PoliticalParty",
+  "name": "Demokratiska partiet, De Nya Svenskarna",
+  "alternateName": ["DPNS", "De Nya Svenskarna"],
+  "url": "https://dpns.multireligionvalsystem.eu.org/",
+  "logo": "https://dpns.multireligionvalsystem.eu.org/assets/images/logo.png",
+  "sameAs": [
+    "https://www.instagram.com/multireligionval/",
+    "https://www.multireligionvalsystem.eu.org/",
+    "https://www.multireligionvalsystem.eu.org/denyasvenskarna"
+  ],
+  "description": "Partipolitiskt och religiöst obunden plattform för kyrkovalsreform, FRC-kammaren och sekulärisering i Sverige.",
+  "knowsAbout": [
+    "MultiReligionValSystem",
+    "Kyrkovalsreform",
+    "Faith Representatives Chamber",
+    "Sekulärisering",
+    "ccTLD flaggdesign"
+  ]
+}
+</script>
 </head>
 # DPNS — Demokratiskt & Partipolitiskt Neutralt System
 
