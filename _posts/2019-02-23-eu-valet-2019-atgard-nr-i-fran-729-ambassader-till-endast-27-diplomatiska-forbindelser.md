@@ -5,7 +5,6 @@ categories:
   - "fred"
 ---
 
-https://www.youtube.com/watch?v=M-qztX\_RvGs
 
 EU har 702 ineffektiva och byråkratiska ambassader.
 
