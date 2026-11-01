@@ -7,18 +7,12 @@ categories:
 
 Miljömodellen för demokrati, demokratin från teori till praktik . 
 
-\[youtube https://www.youtube.com/watch?v=pmJZsgcfK6o\]
-
-  
-
-  
-
-  
+   
 De som inte får rösta och de som har rätt att rösta i dagens Sverige , så skall demokratin inte tillämpas .
 
 Demokratin har tillämpats bristfälligt i hela världen , EU som FN .
 
-Det starka skälet är att demokratin har tillämpats felaktigt inte bara i ditt parti som du ger stöd till eller röstar på utan i hela världen, EU som FN, mot [principen att det är demokratin som har givit alla trossamfund religionsfrihet .](https://multireligionval.cf/)
+Det starka skälet är att demokratin har tillämpats felaktigt inte bara i ditt parti som du ger stöd till eller röstar på utan i hela världen, EU som FN, mot [principen att det är demokratin som har givit alla trossamfund religionsfrihet .]([https://frc.multireligionvalsystem.eu.org/)
 
  De som har rösträtt har möjlighet att välja att rösta, avstå eller rösta blank. I den kategorin deltar ungdomar som fyllt 16 år, d v s de kristna ungdomar som är medlemmar I Svenska Kyrkan har fått rättighet att praktisera demokrati två år innan de får rösta i allmänna val och EU-valet. Dessutom, i kyrkovalet får endast kristna politiker från riksdagspartierna delta , andra politiker från samma riksdagspartier men med annan religionstillhörighet får inte delta .
 
@@ -61,9 +55,9 @@ Multireligionstödet är den finnancella delev av Multireligionvalsystem , den m
 [![](images/AVvXsEjASDuSQCuV86cJ-09KLmvbU76fVr3uDpTk_niTlUS_B7hNZF8-_FOYOdUBWp0qJVaE6G0SqraeyZY5nQXREfsEVMEJj3cRtQUbP8COexRQM0SX3X6YIWISYcOmo6sUCEjGMRe_1OXLg7zb6z1M0xtepWzkJLAzzMmAnnISuHR6EXHsfswwdTKdjOTKlg=s320)](https://blogger.googleusercontent.com/img/a/AVvXsEjASDuSQCuV86cJ-09KLmvbU76fVr3uDpTk_niTlUS_B7hNZF8-_FOYOdUBWp0qJVaE6G0SqraeyZY5nQXREfsEVMEJj3cRtQUbP8COexRQM0SX3X6YIWISYcOmo6sUCEjGMRe_1OXLg7zb6z1M0xtepWzkJLAzzMmAnnISuHR6EXHsfswwdTKdjOTKlg=s881)
 
 Multireligionstödet har motsvarande syfte men med ytterligare demokrati skydd , utveckling med bred röst berättiga deltagande . Om Danmark , Norge och Sverige som har kyrkoval övergå till ett Multireligionvalsystem så att alla även de som har fyllt 16 år få rösträtt så att de kan praktisera demokratin två år innan det allmänna val äga rum och tre år innan valet till Europa parlamentet. Genom att införa ett Multireligionvalsystem i de länder som saknar kyrkoval och att övergå från kyrkoval till ett Multireligionvalsystem i de länder som redan har kyrkoval upnår vi fred samtiding som vi utveckla demokratin och skydda den.
-
-Multireligionstödet utgör trossamfund samtliga resurser som trossamfund förfogar över jämte tillskott från staten . [Trossamfundens samtliga resurser + statens anslag](https://multireligionval.cf/trosrepresentanternas-kammare/) utgör multireligionstödet. Nuvarande bidrag som har givits till trossamfund har orsakat tvister mellan staten och olika trossamfund . Tvisterna kan bli flera med hög ersättning och skadestånd , dessa tas från skatterna. Detta är ohållbart i längden. Tidigare tvist mellan buddister i Sverige och staten samt nu i fallet med Jehova vittnen mot staten har lett till att advokatkostnader , ersättningar och skadestånd har blivit höga vilket skattebetalarna har fått stå för. Detta är ohållbart i längden , flera trossamfund anser att reglerna är svårtolkade och svåra att tillämpa .
+Demokratiska partiet, De Nya Svenskarna (DPNS)
+Multireligionstödet utgör trossamfund samtliga resurser som trossamfund förfogar över jämte tillskott från staten . [Trossamfundens samtliga resurser + statens anslag](https://frc.multireligionvalsystem.eu.org/) utgör multireligionstödet. Nuvarande bidrag som har givits till trossamfund har orsakat tvister mellan staten och olika trossamfund . Tvisterna kan bli flera med hög ersättning och skadestånd , dessa tas från skatterna. Detta är ohållbart i längden. Tidigare tvist mellan buddister i Sverige och staten samt nu i fallet med Jehova vittnen mot staten har lett till att advokatkostnader , ersättningar och skadestånd har blivit höga vilket skattebetalarna har fått stå för. Detta är ohållbart i längden , flera trossamfund anser att reglerna är svårtolkade och svåra att tillämpa .
 
 Multireligionvalsystem i sin tur bygger på dessa tre grunder , Fred – Demokrati – Hållbar utveckling, i den ordningen .
-
-**[Krig utgör ett hot mot miljön och mänskligheten.](https://multireligionval.cf/konfliktlosningsmodell/)**
+Demokratiska partiet, De Nya Svenskarna (DPNS)
+**[Krig utgör ett hot mot miljön och mänskligheten.](https://blog.multireligionvalsystem.eu.org/)**
