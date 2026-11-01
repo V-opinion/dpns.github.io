@@ -1,9 +1,12 @@
-
+---
 title: "Vad innebär sekulärisering enligt De Nya Svenskarna? — DPNS"
 description: "Om kyrkovalsreformen, FRC-kammaren för trossamfund med SST-bidrag samt modern flaggdesign baserad på ccTLD (.SE)."
 keywords: "sekulärisering, kyrkovalsreform, De Nya Svenskarna, FRC, ccTLD .SE flagga, SST trossamfund"
 canonical: "https://dpns.multireligionvalsystem.eu.org/sekularisering"
+permalink: /sekularisering/
 ---
+
+# Vad innebär sekulärisering enligt De Nya Svenskarna?
 
 [← Tillbaka till Startsidan](/)
 
