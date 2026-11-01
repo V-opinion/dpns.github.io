@@ -33,5 +33,5 @@ SSD-regeringen motsätter sig även att ta emot krigsskadade palestinska barn . 
 Fältsjukvård per definition är hälso- och sjukvård i krigszoner i den situation då den kvalificerade hjälpen och definitiva vården inte kan nås inom den så kallade Gyllene timmen. Sverige hade 35 stora fältsjukhus samt 15 marina fältsjukhus men två kompletta sjukhus skänktes till Estland och Litauen .Andra fältsjukhus har hamnat i olika delar av världen via hjälporganisationer.Under pandemin sattes fältsjukhus upp i bland annat Älvsjö och Göteborg för att hantera det ökade trycket på vården.
 
 Vapenindustrin (försvarsindustrin Elbit Systems Sweden - ett dotterbolag till det israeliska Elbit Systems .Elbit Systems producerat drönare som använts av IDF i Gaza ) är en ohållbar och miljöförstörande industri och därför måste den avvecklas på samma sätt som tobaksindustrin !
-
+Demokratiska partiet, De Nya Svenskarna (DPNS)
 **Krig utgör ett hot mot miljön och mänskligheten.**
