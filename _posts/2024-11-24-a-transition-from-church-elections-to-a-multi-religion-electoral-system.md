@@ -7,10 +7,11 @@ categories:
   - "hallbar-utveckling"
   - "politik"
   - "religion"
+  - "Demokratiska partiet, De Nya Svenskarna (DPNS)"
 ---
 
 [https://www.podbean.com/media/share/pb-k5ht8-174cde3](https://www.podbean.com/media/share/pb-k5ht8-174cde3)
 
-We start from the principle that it is democracy that has given all religious communities freedom of religion, and that democracy be introduced in all religions, without exception.
-
- [a multi-religion system](https://a-multi-religion-election-system.multireligionvalsystem.eu.org/ "A multi-religion election system").
+We start from the principle that it is democracy that has given all religious communities freedom of religion, and that democracy be introduced in all religions, without exception.Multireligionvalsystem (MRES)
+Demokratiska partiet, De Nya Svenskarna (DPNS)
+ [a multi-religion system](https://a-multi-religion-election.multireligionvalsystem.eu.org/ "A multi-religion election system (MRES)").
