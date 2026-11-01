@@ -6,7 +6,7 @@ categories:
 ---
 
 Miljömodellen för demokrati, demokratin från teori till praktik . 
-
+Demokratiska partiet, De Nya Svenskarna (DPNS)
    
 De som inte får rösta och de som har rätt att rösta i dagens Sverige , så skall demokratin inte tillämpas .
 
